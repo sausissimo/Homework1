@@ -2,5 +2,6 @@
 .vs
 .vscode
 venv
+classwork.py
 HomeworkJava
 __pycache__
