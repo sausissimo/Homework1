@@ -1,5 +1,6 @@
 # created by virtualenv automatically
 .vs
+.vscode
 venv
 HomeworkJava
 __pycache__
