@@ -1,7 +1,2 @@
-# created by virtualenv automatically
-.vs
-.vscode
+﻿__pycache__/
 venv
-classwork.py
-HomeworkJava
-__pycache__
